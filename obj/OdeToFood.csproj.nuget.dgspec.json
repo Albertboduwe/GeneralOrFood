@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BODUWE\\Desktop\\218006766&218004566\\OdeToFood\\OdeToFood.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BODUWE\\Desktop\\218006766&218004566\\OdeToFood\\OdeToFood.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BODUWE\\Desktop\\218006766&218004566\\OdeToFood\\OdeToFood.csproj",
+        "projectName": "OdeToFood",
+        "projectPath": "C:\\Users\\BODUWE\\Desktop\\218006766&218004566\\OdeToFood\\OdeToFood.csproj",
+        "packagesPath": "C:\\Users\\BODUWE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BODUWE\\Desktop\\218006766&218004566\\OdeToFood\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BODUWE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
